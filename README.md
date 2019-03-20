@@ -56,3 +56,27 @@
         }
     ]
 }
+
+
+2、获取所有的角色
+/user/findRoles?token=fade014e255c42b8b856e2d4408c5dd5
+
+{
+    "code": "0000",
+    "message": "查找所有角色数据成功",
+    "page": null,
+    "data": [
+        {
+            "id": "7d1e48d4b39b4b4aab03602bfe1de9a5",
+            "roleName": "超级管理"
+        },
+        {
+            "id": "business48d4b39baab03602bfe1723g",
+            "roleName": "商家管理"
+        },
+        {
+            "id": "kefu1e48d4b39b4b4aab03602bfe1de9",
+            "roleName": "客服管理"
+        }
+    ]
+}
