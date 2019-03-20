@@ -80,3 +80,16 @@
         }
     ]
 }
+
+3、新增系统用户
+   /user/add
+   {
+	"userName":"我",
+    "loginName":"uu",
+    "password":"123456",
+    "roleId":"kefu1e48d4b39b4b4aab03602bfe1de9",
+    "roleName":"客服003",
+    "mobile":"168123465689",
+    "state":"10"
+  }
+   
