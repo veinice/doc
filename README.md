@@ -1,4 +1,5 @@
-1、获取所有系统管理用户：/user/findAll?token=fade014e255c42b8b856e2d4408c5dd5
+1、获取所有系统管理用户：
+/user/findAll?token=fade014e255c42b8b856e2d4408c5dd5
 {
     "code": "0000",
     "message": "查找所有用户信息数据成功",
