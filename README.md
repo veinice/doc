@@ -92,4 +92,15 @@
     "mobile":"168123465689",
     "state":"10"
   }
-   
+  
+  
+4、超级管理员分配用户权限
+   /role/saveRolePerm
+   {
+	"roleId":"id",
+	"lis":[
+			{"resourceId":"a813312e0111e8b09a000c290040be"},
+			{"resourceId":"bfb6844b1ddf41ceaa0b842710bc99b0"},
+			{"resourceId":"c748751f6c074eb1944de5c213c28c9a"}
+	      ]
+    }
