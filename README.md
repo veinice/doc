@@ -14,6 +14,11 @@ app:
     "mobile":"18826214582"
 }
 
+3、获取用户信息：/user/findUserInfo?token=xxxx
+
+4、获取分类：/goods/sort/list?parentId=
+
+
 
 
 
