@@ -1,3 +1,16 @@
+app:
+1、注册接口：/user/register
+
+{
+    "mobile":"18826214582",
+    "loginPwd":"12345",
+    "smsCode":"555666"        
+}
+
+
+
+
+
 1、获取所有系统管理用户：
 /user/findAll?token=fade014e255c42b8b856e2d4408c5dd5
 {
