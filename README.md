@@ -17,6 +17,8 @@ app:
 3、获取用户信息：/user/findUserInfo?token=xxxx
 
 4、获取分类：/goods/sort/list?parentId=
+   服务：parentId=B 
+   配件：parentId=A 
 
 
 
